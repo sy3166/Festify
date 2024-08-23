@@ -152,20 +152,3 @@ For the Redis to work, you need to create a Redis account and add the credential
 docker run --name redis -p 6379:6379 -d redis
 ```
 
-## Contributing
-
-Contributions are always welcome!
-
-See [`CONTRIBUTING.md`](CONTRIBUTING.md) for ways to get started.
-
-Please adhere to this project's [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md).
-
-## Our valuable Contributors
-
-<a href="https://github.com/we-festify/festify/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=we-festify/festify" />
-</a>
-
-## License
-
-Distributed under the Apache License 2.0. See [`LICENSE`](LICENSE) for more information.
